@@ -1,0 +1,70 @@
+.content{
+    margin-top: 100px;
+}
+.thName{
+    text-align:left;
+    width:40%;
+}
+.EditDelete{
+    border-radius: 2px;
+    text-align: center;
+}
+
+.EmailData{
+    border-radius: 2px;
+    text-align: center;
+}
+.thEmail{
+    width:40%;
+}
+table {
+    width: 100%;
+    border-collapse:collapse;
+  }
+  table,
+  td {
+    padding: 5px;
+    border: 1px solid black;
+  }
+  thead {
+    background-color: #CCCCCC;
+    color: #ffffff;
+  }
+  th {
+
+    text-align: center;
+    height: 50px;
+  }
+  tbody tr:nth-child(odd) {
+    background: #ffffff;
+  }
+  tbody tr:nth-child(even) {
+    background: #F0F0F0;
+  } table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  table,
+  th,
+  td {
+    border: 1px solid black;
+  }
+  thead {
+    background-color: #CCCCCC;
+    color: #000000;
+  }
+  th {
+    text-align: center;
+    height: 50px;
+  }
+  tbody tr:nth-child(odd) {
+    background: #ffffff;
+  }
+  tbody tr:nth-child(even) {
+    background: #f4f4f4;
+  }
+
+
+
+
+  

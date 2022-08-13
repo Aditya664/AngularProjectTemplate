@@ -1,0 +1,52 @@
+.model_header_cont{
+    border: 2px solid black;
+    display: flex;
+    padding: 5px;
+    border-radius: 5px;
+}
+.model_header_title{
+    text-align: center;
+    width: 97%;
+}
+.btn_model_close{
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: #fff;
+    margin-left: 15px;
+    width: 40px;
+}
+.chat_body{
+    border: 2px solid black;
+    padding: 5px;
+    height: 300px;
+    border-radius: 5px;
+}
+.chat_body table{
+    margin-top: 20px;
+}
+.chat_action{
+    border: 2px solid black;
+    display: flex;
+    padding: 9px;
+    border-radius: 5px;
+    height: 50px;
+}
+.chat_action label{
+    margin-right: 50px;
+    margin-left: 150px;
+}
+
+#message{
+    width: 600px;
+    margin-left: 10px;
+    border: solid black;
+    border-radius: 5px;
+}
+.buttons{
+    margin-left: 50px;
+    background-color: white;
+    border: solid black;
+    height: 30px;
+    border-radius: 5px;
+}
